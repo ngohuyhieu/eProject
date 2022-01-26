@@ -1,0 +1,18 @@
+body {
+
+    border: 1px solid #b1154a;
+    display: flex;
+
+
+
+}
+div.one{
+margin: auto;
+background-color: lightskyblue;
+
+}
+p.two{
+    margin-top: -6px;
+    color: deeppink;
+    font-size: x-large;
+}
